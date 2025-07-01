@@ -1,6 +1,6 @@
 const Hero = () => {
   return (
-    <section className="relative z-0 w-full h-screen overflow-hidden">
+    <section id='home' className="relative z-0 w-full h-screen overflow-hidden">
       {/* Background Video */}
       <img 
       src="/assets/gymmen1.jpg" 
