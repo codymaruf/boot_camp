@@ -21,7 +21,7 @@ const Navbar = () => {
 
         {/* Desktop Menu */}
         <nav className="hidden md:flex space-x-6">
-          {["Home", "About", "Services", "Pricing", "Contact"].map((item) => (
+          {["Home", "Services", "Pricing", "Contact"].map((item) => (
             <a
               key={item}
               href={`#${item.toLowerCase()}`}
