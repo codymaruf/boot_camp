@@ -35,7 +35,7 @@ const Navbar = () => {
         {/* CTA */}
         <div className="hidden md:block">
           <a
-            href="#join"
+            href="#contact"
             className="bg-white text-black px-4 py-2 rounded-md font-semibold hover:bg-orange transition"
           >
             Join Now
