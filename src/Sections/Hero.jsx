@@ -5,13 +5,17 @@ const Hero = () => {
       <img 
       src="/assets/gymmen1.jpg" 
       alt="background"
-      className="absolute inset-0 z-10 w-full h-full object-cover opacity-20" />
+      className="absolute inset-0 z-10 w-full h-full object-cover opacity-40" />
 
       {/* Overlay */}
       <div className="absolute inset-0 bg-black bg-opacity-60" />
 
       {/* Content */}
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
+        <img 
+      src="/assets/bootcamp.jpg" 
+      alt="background"
+      className="rounded full" />
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-6">
           Transform Your Body <br /><span className="text-gray"> at Boot Camp</span>
         </h1>
