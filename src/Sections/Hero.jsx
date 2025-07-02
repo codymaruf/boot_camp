@@ -15,7 +15,7 @@ const Hero = () => {
         <img 
       src="/assets/bootcamp.jpg" 
       alt="background"
-      className="rounded-full" />
+      className="rounded-full size-[70%] opacity-70" />
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-6">
           Transform Your Body <br /><span className="text-gray"> at Boot Camp</span>
         </h1>
