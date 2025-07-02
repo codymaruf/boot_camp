@@ -15,7 +15,7 @@ const Hero = () => {
         <img 
       src="/assets/bootcamp.jpg" 
       alt="background"
-      className="rounded-full h-25 opacity-80" />
+      className="rounded-full h-25" />
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-6">
           Transform Your Body <br /><span className="text-gray"> at Boot Camp</span>
         </h1>
@@ -24,7 +24,7 @@ const Hero = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-4">
           <a
-            href="#join"
+            href="#contact"
             className="bg-white text-black px-3 py-2 rounded-full font-bold hover:bg-orange transition"
           >
             Join Now

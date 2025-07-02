@@ -86,7 +86,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="#join"
+            href="#contact"
             className="block bg-orange text-black px-4 py-2 rounded-md font-semibold text-center"
           >
             Join Now
